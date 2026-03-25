@@ -5,12 +5,7 @@ A clean and responsive profile card built using HTML and CSS. This project showc
 ---
 
 ## 🚀 Live Project
-👉 [Add your Live Link here]
-
----
-
-## 📂 GitHub Repository
-👉 [Add your Repo Link here]
+👉 https://kaushikshivam-stack.github.io/Modern-Profile-Card-UI/
 
 ---
 
