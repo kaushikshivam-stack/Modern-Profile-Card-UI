@@ -26,7 +26,7 @@ A clean and responsive profile card built using HTML and CSS. This project showc
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+![Profile Card UI](screenshot.png)
 
 ---
 
