@@ -46,8 +46,8 @@ A clean and responsive profile card built using HTML and CSS. This project showc
 ---
 
 ## 🙌 Connect with Me
-- LinkedIn: [Your Profile Link]
-- GitHub: [Your Profile Link]
+- LinkedIn: linkedin.com/in/shivam-techgeek
+- GitHub: https://github.com/kaushikshivam-stack
 
 ---
 
